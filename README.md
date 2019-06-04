@@ -4,6 +4,8 @@ Built your own Virtual Reality glove
 
 This is a tutorial of how to create a virtual reality glove using off-the-shelf components. 
 
+<h2>Components</h2>
+
 Please review the Components_Needed file to obtain the necessary components. 
 
 Feather M0 = Microcontroller
