@@ -10,7 +10,7 @@ Below is a component visualization of components assembled.
 
 ![alt text](https://github.com/mireyarod23/RangerGlove/blob/master/Image/glove.PNG)
 
-NOTE: This visualization is scalable since only one component per a finger is shown.
+NOTE: This visualization is scalable since only one component per finger is shown.
 
 Schematic of all the components
 
