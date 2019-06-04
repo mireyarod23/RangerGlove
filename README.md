@@ -7,8 +7,11 @@ This is a tutorial of how to create a virtual reality glove using off-the-shelf 
 Please review the Components_Needed file to obtain the necessary components. 
 
 Feather M0 = Microcontroller
+
 BNO055 = Captures the rotation of the hand
+
 Rubber Sensor = Captures the finger one way movement
+
 Vibrating Motors = Haptic feedback to the user from the virtural world
 
 
