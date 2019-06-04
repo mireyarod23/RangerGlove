@@ -30,5 +30,6 @@ The Unity folder contains the 3D enviorment. The Feather M0 and Unity game engin
 
 
 <h2>Results</h2>
+
 ![alt text](https://github.com/mireyarod23/RangerGlove/blob/master/Image/hand_unity.PNG)
 
