@@ -29,4 +29,6 @@ The Arduino folder contains the script that allows the Feather MO create stand a
 The Unity folder contains the 3D enviorment. The Feather M0 and Unity game engine was able to establish connection through TCP socket.  
 
 
+<h2>Results</h2>
+![alt text](https://github.com/mireyarod23/RangerGlove/blob/master/Image/hand_unity.PNG)
 
